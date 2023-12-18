@@ -1,4 +1,8 @@
 ## Hyperion Assembly - Earn rewards from your open-source contributions!
+![Hyperion](https://github.com/hyperion-assembly/.github/assets/686075/77893ed1-cab2-4290-a824-7b4b27165c80)
+
+Live at [hyperionassembly.dev](https://hyperionassembly.dev)
+
 - [x] 💡 **Hyperion** integrates with your GitHub repo, transforming your repo into a tokenized project  
 - [x] 👨🏽‍💻 **Contribute** to projects and earn tokens as rewards for your valuable work  
 - [ ] 📈 **Grow** your project's revenue and distribute it on-chain, proportional to token ownership among contributors  
